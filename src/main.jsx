@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './RevisaõUseStaes/App'
+import App from './RevisaoUseState/App'
 import Lista from './Lista'
 
 
